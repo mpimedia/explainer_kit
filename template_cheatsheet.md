@@ -1,5 +1,7 @@
 # 📚 Template Library Cheat Sheet
 
+> **Tip:** To add an overall title at the top of your explainer image (e.g., "Underlying Rights Explained"), use the `template_title_card` as the first element in your template sequence. This allows you to set a custom heading for the entire image.
+
 ### template_explainer_full
 
 ![template_explainer_full](template_explainer_full.png)
